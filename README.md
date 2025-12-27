@@ -1,35 +1,38 @@
-# ФРОНТЕНД ЧАСТЬ САЙТА С МАГАЗИНОМ ДОРОГИХ АВТОМОБИЛЕЙ 
+# FRONTEND PART OF A LUXURY CAR DEALERSHIP WEBSITE
 
-## 🚀 Установка и запуск (локально)
+## 🚀 Installation and Running (Locally)
 
-### Технические требования
-1. **Клонируйте репозиторий**
+### Technical Requirements
+1. **Clone the repository**
    ```bash
    https://github.com/zeqnmap/frontend_project.git
-   cd ваш-репозиторий
-   
+   cd your-repository
+   ```
+
 2. Python 3.13+
     ```bash
     python --version
     ```
 
-3. Создайте и активируйте виртуальное окружение
+3. Create and activate a virtual environment
     ```bash
     python -m venv venv
-    # Для Windows:
+    # For Windows:
     venv\Scripts\activate
-    # Для Linux/Mac:
+    # For Linux/Mac:
     source venv/bin/activate
     ```
-   Или settings -> python -> interpreter -> add new interpreter
+   Or go to settings -> python -> interpreter -> add new interpreter
 
-4. Установите зависимости
+4. Install dependencies
    ```bash
    pip install -r requirements.txt
    ```
-5. Запуск приложения
+
+5. Launch the application
     ```bash
    python app.py
    ```
-6. Перейдите на сайт по http://127.0.0.1:5000
+
+6. Go to the website at http://127.0.0.1:5000
 
