@@ -9,7 +9,7 @@
    cd your-repository
    ```
 
-2. Python 3.13+
+2. Check your Python 3.10+
     ```bash
     python --version
     ```
